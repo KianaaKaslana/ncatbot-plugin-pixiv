@@ -26,7 +26,8 @@
 
 ## 与 ncapcat 集成
 
-具体操作请参考 ncapcat 项目，如果有安装 ncapcat 则把下载的文件夹放 plugins 中。
+具体操作请参考 ncapcat 项目
+如果有安装 ncapcat 则把下载的文件夹pixiv_plugin放入 plugins 中。
 
 ## 注意事项
 
